@@ -4,7 +4,7 @@ public class Greeting {
 
     private final long id;
     private final String content;
-
+   //this is constructor
     public Greeting(long id, String content) {
         this.id = id;
         this.content = content;
